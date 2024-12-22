@@ -74,8 +74,8 @@ src/
 Create a `.env` file in the root directory:
 
 ```env
-VITE_SUPABASE_URL=your_supabase_url
-VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+VITE_SUPABASE_URL=Database_URl
+VITE_SUPABASE_ANON_KEY=Database_key
 ```
 
 ## Contributing
